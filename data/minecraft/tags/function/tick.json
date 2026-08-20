@@ -1,0 +1,8 @@
+{
+  "values": [
+    "moonpack:tick",
+    "moonpack:rocket",
+    "moonpack:rocket_break_detect",
+    "moonpack:rocket_interaction_detect"
+  ]
+}

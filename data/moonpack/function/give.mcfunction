@@ -1,0 +1,2 @@
+give @p bat_spawn_egg[entity_data={id:"minecraft:bat",Tags:["rocket_spawner"],Silent:1b,active_effects:[{id:"minecraft:invisibility",amplifier:0,duration:-1,show_particles:0b}]},item_name='Rocket',minecraft:item_model="minecraft:netherite_upgrade_smithing_template"] 1
+give @p minecraft:phantom_membrane[equippable={slot:"head",equip_sound:"item.armor.equip_generic"}, custom_data={space_helmet:1b}, minecraft:item_name="Space Helmet", minecraft:item_model="minecraft:glass"]
