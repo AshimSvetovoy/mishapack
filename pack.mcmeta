@@ -1,7 +1,7 @@
 {
     "pack": {
-        "description": "This is the description of your data pack",
-        "min_format": 1,
-        "max_format": 500
+        "description": "Adds the moon",
+    "min_format":88.0,
+    "max_format":107.1
     }
 }
